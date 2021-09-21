@@ -6,14 +6,14 @@
 
     $db_host = "localhost";
     $db_user = "root";
-    $db_pass = "";
+    $db_pass = "b&rg9A&A=X69Egth";
     $db_data = "databank";
 
     $con = new mysqli($db_host,$db_user,$db_pass,$db_data);
 
     $db_hosti = "localhost";
     $db_useri = "root";
-    $db_passi = "";
+    $db_passi = "b&rg9A&A=X69Egth";
     $db_datai = "fivem-framework";
 
     $server = new mysqli($db_hosti,$db_useri,$db_passi,$db_datai);
